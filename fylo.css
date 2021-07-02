@@ -52,6 +52,11 @@ nav{
     display: flex;
     padding: 0;
     list-style-type: none;
+
+}
+
+a:hover{
+    text-decoration: underline !important;
 }
 
 .nav-ft li a{
